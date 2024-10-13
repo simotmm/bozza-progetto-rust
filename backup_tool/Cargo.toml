@@ -1,0 +1,10 @@
+[package]
+name = "backup_tool"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+winit = "0.26.1"
+rfd = "0.10"
+walkdir = "2.3.1"
+fs_extra = "1.2.0"
